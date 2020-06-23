@@ -1,3 +1,3 @@
 # LeakCanaryTester
 Simple app to test Leakcanary and generate memory leak
-App made on Android Studio Beta(compatible with my AMD Cpu)
+App made on Android Studio Beta
